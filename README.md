@@ -2,7 +2,7 @@
 
 The project files are free to use as long as appropriate credit is given.
 
-### Polytoria world description for archival purposes:
+#### Polytoria world description for archival purposes:
 
 Cosmic Jam Entry
 
