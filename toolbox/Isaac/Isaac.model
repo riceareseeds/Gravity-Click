@@ -1,0 +1,737 @@
+{
+  "Version": "2.0.13",
+  "FileType": 1,
+  "Objects": [
+    {
+      "Name": "Model",
+      "ClassName": "Model",
+      "ID": "6d92834a-4e87-4e7e-973d-1e70bb108a4d",
+      "Properties": {
+        "LocalPosition": [
+          38.9841,
+          2.1231,
+          16.9762
+        ],
+        "LocalRotation": [
+          0,
+          -0,
+          -0
+        ],
+        "LocalSize": [
+          1,
+          1,
+          1
+        ],
+        "Tags": []
+      },
+      "Children": [
+        {
+          "Name": "MeshPart",
+          "ClassName": "Mesh",
+          "ID": "50267597-16c4-499a-8190-c3ec815b838d",
+          "Properties": {
+            "Asset": "7433adae-3830-4e35-a653-d61c115921ce",
+            "CollisionType": 0,
+            "UsePartColor": true,
+            "Color": "fdd1ffff",
+            "Velocity": [
+              -0,
+              0,
+              0
+            ],
+            "AngularVelocity": [
+              0,
+              -0,
+              -0
+            ],
+            "AngularDrag": 0.05,
+            "Anchored": true,
+            "CanCollide": true,
+            "CollisionLayers": 1,
+            "CollisionMask": 1,
+            "LocalPosition": [
+              -0.0031,
+              -0.5181,
+              -0.0375
+            ],
+            "LocalRotation": [
+              0,
+              -0,
+              -0
+            ],
+            "LocalSize": [
+              0.481,
+              0.3761,
+              0.2729
+            ],
+            "Tags": []
+          },
+          "Children": [],
+          "LinkedModel": null,
+          "IsLinkedChild": true
+        },
+        {
+          "Name": "Sphere",
+          "ClassName": "Part",
+          "ID": "ec35029b-262a-41d7-99cf-9fc3521ebccc",
+          "Properties": {
+            "Shape": 1,
+            "Color": "fdd1ffff",
+            "Velocity": [
+              -0,
+              0,
+              0
+            ],
+            "AngularVelocity": [
+              0,
+              -0,
+              -0
+            ],
+            "Anchored": true,
+            "CanCollide": true,
+            "CollisionLayers": 1,
+            "CollisionMask": 1,
+            "LocalPosition": [
+              -0.3386,
+              -0.8769,
+              -0.0556
+            ],
+            "LocalRotation": [
+              0,
+              -0,
+              -0
+            ],
+            "LocalSize": [
+              0.6212,
+              1.2853,
+              0.6493
+            ],
+            "Tags": []
+          },
+          "Children": [],
+          "LinkedModel": null,
+          "IsLinkedChild": true
+        },
+        {
+          "Name": "Sphere",
+          "ClassName": "Part",
+          "ID": "be387fb4-d6f3-46db-9893-9c49de46754c",
+          "Properties": {
+            "Shape": 1,
+            "Color": "fdd1ffff",
+            "Velocity": [
+              -0,
+              0,
+              0
+            ],
+            "AngularVelocity": [
+              0,
+              -0,
+              -0
+            ],
+            "Anchored": true,
+            "CanCollide": true,
+            "CollisionLayers": 1,
+            "CollisionMask": 1,
+            "LocalPosition": [
+              0.3143,
+              -0.8769,
+              -0.0536
+            ],
+            "LocalRotation": [
+              0,
+              -0,
+              -0
+            ],
+            "LocalSize": [
+              0.6212,
+              1.2853,
+              0.6493
+            ],
+            "Tags": []
+          },
+          "Children": [],
+          "LinkedModel": null,
+          "IsLinkedChild": true
+        },
+        {
+          "Name": "Brick",
+          "ClassName": "Part",
+          "ID": "cfa11479-6728-4bfb-8046-bd4c6871da2f",
+          "Properties": {
+            "Material": 13,
+            "Color": "ffffffff",
+            "Velocity": [
+              -0,
+              0,
+              0
+            ],
+            "AngularVelocity": [
+              0,
+              -0,
+              -0
+            ],
+            "Anchored": true,
+            "CanCollide": true,
+            "CollisionLayers": 1,
+            "CollisionMask": 1,
+            "LocalPosition": [
+              0.0029,
+              0.2272,
+              -0.9902
+            ],
+            "LocalRotation": [
+              0,
+              -0,
+              -0
+            ],
+            "LocalSize": [
+              0.3338,
+              0.0282,
+              0.0172
+            ],
+            "Tags": []
+          },
+          "Children": [],
+          "LinkedModel": null,
+          "IsLinkedChild": true
+        },
+        {
+          "Name": "Sphere",
+          "ClassName": "Part",
+          "ID": "110d17ef-1aaf-42bb-b450-9b389531f960",
+          "Properties": {
+            "Shape": 1,
+            "Color": "fdd1ffff",
+            "Velocity": [
+              -0,
+              0,
+              0
+            ],
+            "AngularVelocity": [
+              0,
+              -0,
+              -0
+            ],
+            "Anchored": true,
+            "CanCollide": true,
+            "CollisionLayers": 1,
+            "CollisionMask": 1,
+            "LocalPosition": [
+              -0.0203,
+              -0.5787,
+              -0.0556
+            ],
+            "LocalRotation": [
+              0,
+              -0,
+              -0
+            ],
+            "LocalSize": [
+              1.2904,
+              1.0151,
+              0.6493
+            ],
+            "Tags": []
+          },
+          "Children": [],
+          "LinkedModel": null,
+          "IsLinkedChild": true
+        },
+        {
+          "Name": "Sphere",
+          "ClassName": "Part",
+          "ID": "003be8df-41a1-44f7-997c-452725c315b3",
+          "Properties": {
+            "Shape": 1,
+            "Color": "fdd1ffff",
+            "Velocity": [
+              -0,
+              0,
+              0
+            ],
+            "AngularVelocity": [
+              0,
+              -0,
+              -0
+            ],
+            "Anchored": true,
+            "CanCollide": true,
+            "CollisionLayers": 1,
+            "CollisionMask": 1,
+            "LocalPosition": [
+              -0.5187,
+              -0.4544,
+              -0.0556
+            ],
+            "LocalRotation": [
+              0,
+              -0,
+              -30
+            ],
+            "LocalSize": [
+              0.6212,
+              1.0228,
+              0.6493
+            ],
+            "Tags": []
+          },
+          "Children": [],
+          "LinkedModel": null,
+          "IsLinkedChild": true
+        },
+        {
+          "Name": "Sphere",
+          "ClassName": "Part",
+          "ID": "af3cdddc-3c6b-436a-b52c-6d071edf99d7",
+          "Properties": {
+            "Shape": 1,
+            "Color": "fdd1ffff",
+            "Velocity": [
+              -0,
+              0,
+              0
+            ],
+            "AngularVelocity": [
+              0,
+              -0,
+              -0
+            ],
+            "Anchored": true,
+            "CanCollide": true,
+            "CollisionLayers": 1,
+            "CollisionMask": 1,
+            "LocalPosition": [
+              -0.0203,
+              -0.5787,
+              0.0068
+            ],
+            "LocalRotation": [
+              0,
+              -0,
+              -0
+            ],
+            "LocalSize": [
+              1.2904,
+              1.0151,
+              0.6493
+            ],
+            "Tags": []
+          },
+          "Children": [],
+          "LinkedModel": null,
+          "IsLinkedChild": true
+        },
+        {
+          "Name": "Sphere",
+          "ClassName": "Part",
+          "ID": "e3cb0cec-b116-4d54-a90d-866140b703cb",
+          "Properties": {
+            "Shape": 1,
+            "Color": "fdd1ffff",
+            "Velocity": [
+              -0,
+              0,
+              0
+            ],
+            "AngularVelocity": [
+              0,
+              -0,
+              -0
+            ],
+            "Anchored": true,
+            "CanCollide": true,
+            "CollisionLayers": 1,
+            "CollisionMask": 1,
+            "LocalPosition": [
+              0.5187,
+              -0.3573,
+              -0.0556
+            ],
+            "LocalRotation": [
+              0,
+              -0,
+              -329.99997
+            ],
+            "LocalSize": [
+              0.6212,
+              1.0228,
+              0.6493
+            ],
+            "Tags": []
+          },
+          "Children": [],
+          "LinkedModel": null,
+          "IsLinkedChild": true
+        },
+        {
+          "Name": "MeshPart",
+          "ClassName": "Mesh",
+          "ID": "7a7c3dd7-560b-4461-ad33-99951b27c1b8",
+          "Properties": {
+            "Asset": "abc7e439-79c8-4674-93a3-54c8d8000a76",
+            "CollisionType": 0,
+            "UsePartColor": true,
+            "Color": "2d2d2dff",
+            "Velocity": [
+              -0,
+              0,
+              0
+            ],
+            "AngularVelocity": [
+              0,
+              -0,
+              -0
+            ],
+            "AngularDrag": 0.05,
+            "Anchored": true,
+            "CanCollide": true,
+            "CollisionLayers": 1,
+            "CollisionMask": 1,
+            "LocalPosition": [
+              0.0195,
+              0.3095,
+              -0.971
+            ],
+            "LocalRotation": [
+              0,
+              -270,
+              -0
+            ],
+            "LocalSize": [
+              0.5,
+              0.3021,
+              0.3193
+            ],
+            "Tags": []
+          },
+          "Children": [],
+          "LinkedModel": null,
+          "IsLinkedChild": true
+        },
+        {
+          "Name": "Sphere",
+          "ClassName": "Part",
+          "ID": "bdbf852a-82ed-4b45-874b-cc0db76973f8",
+          "Properties": {
+            "Shape": 1,
+            "Color": "ffffffff",
+            "Velocity": [
+              -0,
+              0,
+              0
+            ],
+            "AngularVelocity": [
+              0,
+              -0,
+              -0
+            ],
+            "Anchored": true,
+            "CanCollide": true,
+            "CollisionLayers": 1,
+            "CollisionMask": 1,
+            "LocalPosition": [
+              -0.3913,
+              0.8547,
+              -0.8679
+            ],
+            "LocalRotation": [
+              0,
+              -0,
+              -0
+            ],
+            "LocalSize": [
+              0.2039,
+              0.2287,
+              0.2519
+            ],
+            "Tags": []
+          },
+          "Children": [],
+          "LinkedModel": null,
+          "IsLinkedChild": true
+        },
+        {
+          "Name": "Sphere",
+          "ClassName": "Part",
+          "ID": "870a8c37-2f4a-4056-a392-3d376dd69fce",
+          "Properties": {
+            "Shape": 1,
+            "Color": "ffffffff",
+            "Velocity": [
+              -0,
+              0,
+              0
+            ],
+            "AngularVelocity": [
+              0,
+              -0,
+              -0
+            ],
+            "Anchored": true,
+            "CanCollide": true,
+            "CollisionLayers": 1,
+            "CollisionMask": 1,
+            "LocalPosition": [
+              0.6081,
+              0.8547,
+              -0.8679
+            ],
+            "LocalRotation": [
+              0,
+              -0,
+              -0
+            ],
+            "LocalSize": [
+              0.2039,
+              0.2287,
+              0.2519
+            ],
+            "Tags": []
+          },
+          "Children": [],
+          "LinkedModel": null,
+          "IsLinkedChild": true
+        },
+        {
+          "Name": "Sphere",
+          "ClassName": "Part",
+          "ID": "71c4ea97-4895-4922-a5bf-3caf630cf952",
+          "Properties": {
+            "Shape": 1,
+            "Color": "000000ff",
+            "Velocity": [
+              -0,
+              0,
+              0
+            ],
+            "AngularVelocity": [
+              0,
+              -0,
+              -0
+            ],
+            "Anchored": true,
+            "CanCollide": true,
+            "CollisionLayers": 1,
+            "CollisionMask": 1,
+            "LocalPosition": [
+              -0.4776,
+              0.7209,
+              -0.7933
+            ],
+            "LocalRotation": [
+              0,
+              -0,
+              -0
+            ],
+            "LocalSize": [
+              0.4749,
+              0.5404,
+              0.461
+            ],
+            "Tags": []
+          },
+          "Children": [],
+          "LinkedModel": null,
+          "IsLinkedChild": true
+        },
+        {
+          "Name": "Cylinder",
+          "ClassName": "Part",
+          "ID": "642c794a-b8d3-4465-bddf-856c4eda6d9d",
+          "Properties": {
+            "Shape": 2,
+            "Material": 13,
+            "Color": "35e4d3ff",
+            "Velocity": [
+              -0,
+              0,
+              0
+            ],
+            "AngularVelocity": [
+              0,
+              -0,
+              -0
+            ],
+            "Anchored": true,
+            "CanCollide": true,
+            "CollisionLayers": 1,
+            "CollisionMask": 1,
+            "LocalPosition": [
+              -0.4545,
+              0.3699,
+              -0.2749
+            ],
+            "LocalRotation": [
+              0,
+              -0,
+              -90
+            ],
+            "LocalSize": [
+              1.0989,
+              0.1703,
+              1.175
+            ],
+            "Tags": []
+          },
+          "Children": [],
+          "LinkedModel": null,
+          "IsLinkedChild": true
+        },
+        {
+          "Name": "Sphere",
+          "ClassName": "Part",
+          "ID": "b21633bf-6c3e-4e88-8783-aa8b7a33bdbe",
+          "Properties": {
+            "Shape": 1,
+            "Color": "000000ff",
+            "Velocity": [
+              -0,
+              0,
+              0
+            ],
+            "AngularVelocity": [
+              0,
+              -0,
+              -0
+            ],
+            "Anchored": true,
+            "CanCollide": true,
+            "CollisionLayers": 1,
+            "CollisionMask": 1,
+            "LocalPosition": [
+              0.5056,
+              0.7209,
+              -0.7933
+            ],
+            "LocalRotation": [
+              0,
+              -0,
+              -0
+            ],
+            "LocalSize": [
+              0.4749,
+              0.5404,
+              0.461
+            ],
+            "Tags": []
+          },
+          "Children": [],
+          "LinkedModel": null,
+          "IsLinkedChild": true
+        },
+        {
+          "Name": "Cylinder",
+          "ClassName": "Part",
+          "ID": "72805387-d658-4865-b600-360d8c70f050",
+          "Properties": {
+            "Shape": 2,
+            "Material": 13,
+            "Color": "35e4d3ff",
+            "Velocity": [
+              -0,
+              0,
+              0
+            ],
+            "AngularVelocity": [
+              0,
+              -0,
+              -0
+            ],
+            "Anchored": true,
+            "CanCollide": true,
+            "CollisionLayers": 1,
+            "CollisionMask": 1,
+            "LocalPosition": [
+              0.5012,
+              0.3699,
+              -0.2749
+            ],
+            "LocalRotation": [
+              0,
+              -0,
+              -90
+            ],
+            "LocalSize": [
+              1.0989,
+              0.1703,
+              1.175
+            ],
+            "Tags": []
+          },
+          "Children": [],
+          "LinkedModel": null,
+          "IsLinkedChild": true
+        },
+        {
+          "Name": "Sphere",
+          "ClassName": "Part",
+          "ID": "0ec7b1d7-51fa-4fbd-a2a1-ff8e9c1b163d",
+          "Properties": {
+            "Shape": 1,
+            "Color": "fdd1ffff",
+            "Velocity": [
+              -0,
+              0,
+              0
+            ],
+            "AngularVelocity": [
+              0,
+              -0,
+              -0
+            ],
+            "Anchored": true,
+            "CanCollide": true,
+            "CollisionLayers": 1,
+            "CollisionMask": 1,
+            "LocalPosition": [
+              0.0159,
+              0.5195,
+              0.0238
+            ],
+            "LocalRotation": [
+              0,
+              -0,
+              -0
+            ],
+            "LocalSize": [
+              2,
+              2,
+              2
+            ],
+            "Tags": []
+          },
+          "Children": [],
+          "LinkedModel": null,
+          "IsLinkedChild": true
+        }
+      ],
+      "LinkedModel": "bb915861-70f6-4277-8ab4-4f90d2ef5a96",
+      "IsLinkedChild": false
+    }
+  ],
+  "NonInstanceObjects": [
+    {
+      "Name": "PTMeshAsset",
+      "ClassName": "PTMeshAsset",
+      "ID": "7433adae-3830-4e35-a653-d61c115921ce",
+      "Properties": {
+        "AssetID": 155961
+      },
+      "Children": [],
+      "LinkedModel": null,
+      "IsLinkedChild": false
+    },
+    {
+      "Name": "PTMeshAsset2",
+      "ClassName": "PTMeshAsset",
+      "ID": "abc7e439-79c8-4674-93a3-54c8d8000a76",
+      "Properties": {
+        "AssetID": 131786
+      },
+      "Children": [],
+      "LinkedModel": null,
+      "IsLinkedChild": false
+    }
+  ]
+}

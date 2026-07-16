@@ -1,0 +1,13 @@
+{
+  "world_main.poly": "main.poly",
+  "3a9d3fee-f79e-4db2-b070-3cdfcd3ceb2b": "scripts/client/mainclient.client.luau",
+  "74faff68-bc5b-4474-a9a6-4e42cb751d38": "scripts/modules/camera.luau",
+  "bbc4e52e-fef9-4ead-8c2a-4ce22315fbfb": "scripts/modules/constants.luau",
+  "c075a32c-6b87-40d6-9474-89866398b9db": "scripts/modules/controls.luau",
+  "75633174-60aa-48c9-a139-3d25a698a99b": "scripts/modules/HitboxModule.luau",
+  "97d70c32-0ae6-40b5-9a5e-1ea7c35ba58d": "scripts/modules/levelHandler.luau",
+  "9f5f4808-bf36-41c3-8c45-8934d28c4a2a": "scripts/modules/levelModule.luau",
+  "cfccfa87-fa74-4b12-ba62-3f26ca4957b0": "scripts/modules/physics.luau",
+  "ba237857-03b0-4b1f-9e08-9ad6eea00057": "scripts/modules/serverPlayerHandler.luau",
+  "3a940e75-d93e-41d1-8be1-edd8309c81f3": "scripts/server/main.server.luau"
+}
