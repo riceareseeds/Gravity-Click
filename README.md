@@ -4,7 +4,7 @@ The project files are free to use as long as appropriate credit is given.
 
 #### Polytoria world description for archival purposes:
 
->Cosmic Jam Entry
+>Cosmic Jam Entry - Got a honorable mention and the results video misspelled it as 'Gravity Clicker'.
 >
 >You are a glowing blue ball that adventures through multiple different planets, you can't move but you can manipulate the gravity around you to move other objects around you including yourself.
 >
